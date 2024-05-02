@@ -16,10 +16,10 @@ I'm a highly motivated Data Engineer with a passion for building high-performanc
 * **Crime Data Analysis of Baltimore City (AWS & Tableau):** Utilized AWS and Tableau to clean, analyze, and visualize crime data, identifying patterns and trends. (Link to repository if public)
 * **Crime Data Analysis of Los Angeles (PySpark & Tableau):** Leveraged PySpark for data analysis and Tableau for visualization, uncovering the factors behind crime distribution in Los Angeles. (Link to repository if public)
 
-** Education**
+**Education**
 * **University of Maryland, Baltimore County (May 2024):** Master's of Professional Studies in Data Science (CGPA: 4.0). Courses included Big Data Analytics, Data Management, Machine Learning, Deep Learning, Project Management, etc.
 
-** Certifications**
+**Certifications**
 * **Data Analytics:** Google Advanced Data Analytics (2024)
 * **SQL:** SQL Intermediate certificate from HackerRank (2023)
 * **Agile:** Agile Intermediate certificate from TCS (2020)
