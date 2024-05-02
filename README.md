@@ -1,5 +1,6 @@
 # Hi there!  I'm Hemanth Varma Dantuluri
 * **Welcome to my GitHub Profile!**
+  
 I'm a highly motivated Data Engineer with a passion for building high-performance data pipelines and leveraging Machine Learning for impactful solutions. I hold a Master's in Data Science (4.0 CGPA) from the University of Maryland, Baltimore County, and boast strong analytical skills honed through my experience at Tata Consultancy Services (TCS).
 
 ## My Skills
