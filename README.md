@@ -1,36 +1,31 @@
-# Welcome to My GitHub Profile
+**Hi there!  I'm Hemanth Varma Dantuluri**
 
-## About Me
-I'm a dedicated Data Engineer with a passion for designing, implementing, and maintaining data pipelines and ETL processes. With three years of experience in the field, I have honed my skills in various technologies and methodologies to enhance data-driven decision-making processes.
+I'm a highly motivated Data Engineer with a passion for building high-performance data pipelines and leveraging Machine Learning for impactful solutions. I hold a Master's in Data Science (4.0 CGPA) from the University of Maryland, Baltimore County, and boast strong analytical skills honed through my experience at Tata Consultancy Services (TCS).
 
-## Professional Experience
-- **Company:** Tata Consultancy Services, Chennai, India
-- **Position:** Systems Engineer
-- **Duration:** July 2019 – July 2022
+**My Skills**
 
-During my tenure at Tata Consultancy Services, I had the privilege of leading a high-performing Agile team, specializing in ETL processes. My expertise extends to utilizing tools such as Informatica PowerCenter, IBM Sterling, Oracle SQL Developer, and BMC Control-M Scheduler. I've designed, developed, and implemented intricate code solutions for seamless file transfers across diverse sources, ensuring data flows seamlessly to HIVE tables and other target systems. My innovative approach to automation streamlined 30% of manual work associated with regular file transfer requests.
+* **Data Engineering:** Expert in designing, implementing, and maintaining data pipelines using ETL tools like Informatica PowerCenter, Oracle SQL Developer, and BMC Control-M Scheduler.
+* **Machine Learning:** Proficient in building models using Python libraries (Scikit-learn, TensorFlow). Experienced with techniques like Linear Regression, Decision Trees, Random Forests, XGBoost, and Neural Networks. (See projects below!)
+* **Cloud Technologies:** Adept in utilizing AWS services like S3, Athena, and EC2 for data storage, processing, and analysis.
+* **Data Visualization:** Skilled in creating insightful dashboards and visualizations using Tableau and Power BI.
+* **Project Management:** Experienced in both Waterfall and Agile methodologies (Kanban, Scrum). Demonstrated leadership abilities through leading an Agile team of 7.
 
-## Projects
-- **Vehicle Price Prediction:** Leveraging machine learning models, I achieved a remarkable 98% accuracy in predicting car resale prices. I employed Linear Regression, Decision Trees, Random Forests, Gradient Boosting, XGBoost, and Fully Connected Neural Networks to accomplish this.
+**My Projects**
 
-- **Crime Data Analysis of Baltimore City using AWS:** Utilizing AWS S3 and Athena, I loaded, cleaned, and performed ETL on crime records in Baltimore. I then employed Tableau for visualization to identify patterns in crime data, such as the month, location, time, and types of crimes.
+* **Vehicle Price Prediction (Python):** Achieved 98% accuracy by applying various machine learning models to predict car resale prices. (Link to repository if public)
+* **Crime Data Analysis of Baltimore City (AWS & Tableau):** Utilized AWS and Tableau to clean, analyze, and visualize crime data, identifying patterns and trends. (Link to repository if public)
+* **Crime Data Analysis of Los Angeles (PySpark & Tableau):** Leveraged PySpark for data analysis and Tableau for visualization, uncovering the factors behind crime distribution in Los Angeles. (Link to repository if public)
 
-- **Crime Data Analysis of Los Angeles using PySpark:** I employed PySpark to load, clean, and perform initial analysis of crime data in Los Angeles. Subsequently, I used Tableau for visualization to uncover patterns in crime data, particularly focusing on why crime is concentrated in specific areas.
+** Education**
+* **University of Maryland, Baltimore County (May 2024):** Master's of Professional Studies in Data Science (CGPA: 4.0). Courses included Big Data Analytics, Data Management, Machine Learning, Deep Learning, Project Management, etc.
 
-## Skills
-- **Programming Languages:** Python, SQL, NoSQL, JavaScript, C/C++
-- **Applications/Tools:** Informatica PowerCenter, Oracle SQL Developer, AWS (S3, Athena, EC2, Dynamo DB), BMC Control-M, Tableau, Jira, Visual Studio Code (VS Code), Microsoft Excel, Microsoft Word, Microsoft Visio
-- **Additional Skills:** Adaptability, teamwork, effective time management, commitment to delivering high-quality results, and problem-solving.
+** Certifications**
+* **Data Analytics:** Google Advanced Data Analytics (2024)
+* **SQL:** SQL Intermediate certificate from HackerRank (2023)
+* **Agile:** Agile Intermediate certificate from TCS (2020)
 
-## Education
-- **Masters of Professional Studies in Data Science** from the University of Maryland, Baltimore County, with a CGPA of 4.0. Courses included Big Data Analytics, Data Management, Machine Learning, Deep Learning, Data Structures and Algorithms, Project Management, and more.
+**Let's Connect!**
 
-- **Bachelor of Technology in Electronics and Communication Engineering** from Raghu Engineering College, Visakhapatnam.
-
-## Certifications
-- SQL Intermediate certificate from HackerRank - 2023.
-- Agile Intermediate certificate from TCS - 2020.
-- Informatica Power Centre beginner certificate from TCS - 2020.
-- UNIX beginner certificate from TCS - 2020.
-
-I'm passionate about data engineering, and I'm constantly learning and exploring new technologies to stay at the forefront of the field. Feel free to explore my repositories to learn more about my work and projects.
+* **LinkedIn:** www.linkedin.com/in/hemanth-varma-3105
+* **Email:** hvarmadantuluri@gmail.com
+* **I'm always open to new challenges and collaborations!**
