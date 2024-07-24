@@ -12,9 +12,10 @@ I'm a highly motivated Data Engineer with a passion for building high-performanc
 
 ### My Projects
 
+- **OCT Image Classification (Python):** Classified OCT retinal images across four conditions: Diabetic Macular Edema (DME), Drusen, Choroidal Neovascularization (CNV), and normal retinal image. Employed ensemble techniques, augmentation, and normalization methods. Achieved an F1 score of 92%, demonstrating high accuracy and robustness. ([https://github.com/hemanth08/OCT_ImageClassification](url))
 - **Vehicle Price Prediction (Python):** Achieved 98% accuracy by applying various machine learning models to predict car resale prices. (Link to repository if public)
 - **Crime Data Analysis of Baltimore City (AWS & Tableau):** Utilized AWS and Tableau to clean, analyze, and visualize crime data, identifying patterns and trends. (Link to repository if public)
-- **Crime Data Analysis of Los Angeles (PySpark & Tableau):** Leveraged PySpark for data analysis and Tableau for visualization, uncovering the factors behind crime distribution in Los Angeles. (Link to repository if public)
+- **Crime Data Analysis of Los Angeles (PySpark & Tableau):** Leveraged PySpark for data analysis and Tableau for visualization, uncovering the factors behind crime distribution in Los Angeles. ([https://public.tableau.com/app/profile/hemanth.varma.dantuluri/viz/CrimeDataAnalysisofLosAngeles/Dashboard1](url))
 
 ### Education
 - **University of Maryland, Baltimore County (May 2024):** Master's of Professional Studies in Data Science (CGPA: 4.0). Courses included Big Data Analytics, Data Management, Machine Learning, Deep Learning, Project Management, etc.
