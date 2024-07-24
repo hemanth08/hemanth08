@@ -21,12 +21,21 @@ I'm a highly motivated Data Engineer with a passion for building high-performanc
 - **University of Maryland, Baltimore County (May 2024):** Master's of Professional Studies in Data Science (CGPA: 4.0). Courses included Big Data Analytics, Data Management, Machine Learning, Deep Learning, Project Management, etc.
 
 ### Certifications
-- **Data Analytics:** Google Advanced Data Analytics (2024)
-- **SQL:** SQL Intermediate certificate from HackerRank (2023)
+- **Data Analytics:** 
+<img width="1133" alt="image" src="https://github.com/user-attachments/assets/4d26f85f-17ad-45e3-b0c2-a87f93bf4065">
+
+
+- **Business Intelligence:** 
+<img width="1134" alt="Google BI Professional" src="https://github.com/user-attachments/assets/11c36ec8-7fc3-45ed-9a43-08422e8f4755">
+
+
+- **SQL:** 
+<img width="802" alt="image" src="https://github.com/user-attachments/assets/9dce022d-1cda-4a57-8a21-10510c611333">
+
 - **Agile:** Agile Intermediate certificate from TCS (2020)
 
 **Let's Connect!**
 
-- **LinkedIn:** www.linkedin.com/in/hemanth-varma-3105
+- **LinkedIn:** [www.linkedin.com/in/hemanth-varma-3105](url)
 - **Email:** hvarmadantuluri@gmail.com
 - **I'm always open to new challenges and collaborations!**
